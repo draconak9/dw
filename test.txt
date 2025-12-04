@@ -1,2 +1,2 @@
-Ring-88707389
+localhost.localdomain
 gamma-word-bastion.lan
