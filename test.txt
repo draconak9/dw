@@ -1,15 +1,3 @@
 localhost.localdomain
 gamma-word-bastion.lan
 test
-testtest
-test4
-test5
-test6test
-test123123
-testtset111111
-123123123
-3333333
-abcabc
-whatever
-watever2
-whatever3
